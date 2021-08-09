@@ -1,7 +1,7 @@
 
-## Hello There, I'm Iulian. 
+## Hello there, I am Iulian. 
 
-- :mortar_board: I have a bachelor degree in computer science and now I'm studying for a master's degree at the Technical University of Moldova.
+- :mortar_board: I’m bachelor graduated in computer science and now I am studying for a master's degree at the Technical University of Moldova.
 - :computer: I’m currently working on [MoneyManager](https://github.com/JulianNSH/MoneyManager)
 - 🌱 I’m currently learning :coffee: Java.
 - :mailbox: Contact e-mail: <iulianpanis@gmail.com>
